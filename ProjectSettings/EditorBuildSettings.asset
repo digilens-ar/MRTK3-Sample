@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DigiLens/Scenes/Spaces Demo Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/DigiOS/Scenes/test.unity
+    guid: dde31b75328940843a309b7623fd41f4
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a5b51efbf3d1f0048a42efccda8a5d8e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9edaa045644fa5c4faf5b12fe6c8dd88, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: be5a745063236a24a98a4ee46ad6cb1b, type: 2}
