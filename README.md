@@ -31,11 +31,15 @@ This Unity Sample app demonstrates how to set up your project for AR development
 
 5. Import sample assets
 
-6. Within the XR Management Settings, enable Snapdragon Spaces, along with the Base Runtime feature and the Hand Tracking feature
+6. Within the XR Management Settings, enable Snapdragon Spaces, along with the Base Runtime feature and the Hand Tracking Subsystem feature
 
-7. Select Android as the build platform
+7. Go to the Project Validation settings, and resolve any warnings or errors
 
-8. Build and run the DigiOS Spaces Sample scene
+8. Select Android as the build platform
+
+9. Build and run the DigiOS Spaces Sample scene
+
+10. If you run the app, and both head movement or hands are not being tracked, restart the Unity project. Then, revisit the XR Management Settings and ensure the Base Runtime feature and the Hand Tracking Subsystem are enabled. 
  
 For more detailed instructions visit the [MRTK 3.0](https://developer.digilens.com/hc/en-us/articles/33973966615323-MRTK-3-0) page.
  
