@@ -6,7 +6,7 @@ The web page provides a detailed description of the steps required to build MRTK
  
 ## Overview
  
-This Unity Sample app demonstrates how to set up your project for AR development with Spaces. Before proceeding, you will need to download the [Snapdragon Spaces Unity SDK](https://spaces.qualcomm.com/developer/ar-sdk/#downloads)
+This Unity Sample app demonstrates how to set up your project for AR development with Spaces. Before proceeding, you will need to download the Snapdragon Spaces Unity SDK. To access the appropriate version of Spaces, contact the [Snapdragon Spaces Support team](https://support.spaces.qualcomm.com/support/tickets/new) and request Spaces SDK v0.24.0.
  
 ## Requirements
  
@@ -25,7 +25,7 @@ This Unity Sample app demonstrates how to set up your project for AR development
 
 2. Install editor version [2021.3.33f1](https://unity.com/releases/editor/archive) with Android Build support
 
-3. Download the [Snapdragon Spaces Unity SDK](https://spaces.qualcomm.com/developer/ar-sdk/#downloads)
+3.  Download the Snapdragon Spaces Unity SDK. To access the appropriate version of Spaces, you will need to contact the [Snapdragon Spaces Support team](https://support.spaces.qualcomm.com/support/tickets/new) and request Spaces SDK v0.24.0.
 
 4. Open the project and import the Spaces SDK
 
